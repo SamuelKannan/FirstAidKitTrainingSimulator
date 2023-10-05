@@ -7,3 +7,5 @@ The First Aid Kit Training Simulator is divided into 2 phases
 
 The project was made using google cardboard with an external controller You can test it out by running the FATS.apk on VR headset like a quest 2
 
+The link for the APK and demo videos: https://drive.google.com/drive/folders/1RNcRcczFVWVUXywaSoH7Rn1tQQzm2pPm?usp=share_link
+
