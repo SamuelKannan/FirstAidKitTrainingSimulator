@@ -1,0 +1,142 @@
+fileFormatVersion: 2
+guid: e48d18018a0ba46c283d9fd9c227e578
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Bumper
+    100002: Button_A
+    100004: Button_B
+    100006: Button_Home
+    100008: Controller_Base
+    100010: ThumbStick
+    100012: ThumbStick_Base
+    100014: TouchPad
+    100016: Trigger
+    100018: XRController_LT_Thumbstick_Buttons
+    100020: //RootNode
+    400000: Bumper
+    400002: Button_A
+    400004: Button_B
+    400006: Button_Home
+    400008: Controller_Base
+    400010: ThumbStick
+    400012: ThumbStick_Base
+    400014: TouchPad
+    400016: Trigger
+    400018: XRController_LT_Thumbstick_Buttons
+    400020: //RootNode
+    2100000: No Name
+    2300000: Bumper
+    2300002: Button_A
+    2300004: Button_B
+    2300006: Button_Home
+    2300008: Controller_Base
+    2300010: ThumbStick
+    2300012: ThumbStick_Base
+    2300014: TouchPad
+    2300016: Trigger
+    3300000: Bumper
+    3300002: Button_A
+    3300004: Button_B
+    3300006: Button_Home
+    3300008: Controller_Base
+    3300010: ThumbStick
+    3300012: ThumbStick_Base
+    3300014: TouchPad
+    3300016: Trigger
+    4300000: Button_Home
+    4300002: Trigger
+    4300004: Bumper
+    4300006: TouchPad
+    4300008: Controller_Base
+    4300010: Button_B
+    4300012: Button_A
+    4300014: ThumbStick_Base
+    4300016: ThumbStick
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
